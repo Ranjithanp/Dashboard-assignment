@@ -8,6 +8,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.
+[Runs the app in the development mode.
 Open dashboard-assignment-delta.vercel.app
- to view it in your browser.
+ to view it in your browser.](https://dashboard-assignment-delta.vercel.app/)
